@@ -76,7 +76,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="include\DemoMessage.h" />
+    <ClInclude Include="include\DataObjectBase.h" />
+    <ClInclude Include="include\DemoCommand.h" />
     <ClInclude Include="include\RarContainer.h" />
     <ClInclude Include="include\RarItem.h" />
   </ItemGroup>

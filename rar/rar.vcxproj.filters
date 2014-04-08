@@ -18,7 +18,10 @@
     <ClInclude Include="include\RarItem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\DemoMessage.h">
+    <ClInclude Include="include\DemoCommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\DataObjectBase.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\RarContainer.h">
